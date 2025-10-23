@@ -1,0 +1,1 @@
+image_index = int64(global.options.fullscreen);

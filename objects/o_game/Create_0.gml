@@ -1,3 +1,10 @@
 
 global.points = 0;
-load_game();
+
+// Opções
+global.options = {
+	fullscreen: false,
+	sounds: true,
+	musics: true
+}
+
